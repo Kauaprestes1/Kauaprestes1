@@ -1,3 +1,6 @@
+ ## 👋 Hello! Welcome to my Github profile. 
+### My name is Kauã Prestes de Oliveira and my nickname is "Kaka"!
+
 
 <div>
 <a href="https://https://github.com/Kauaprestes1">
