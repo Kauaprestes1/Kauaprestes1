@@ -35,4 +35,5 @@
 </div>
  
  ![Snake animation](https://github.com/Kauaprestes1/Kauaprestes1/blob/output/github-contribution-grid-snake.svg)
+  
  
