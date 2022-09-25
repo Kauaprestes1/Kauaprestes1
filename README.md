@@ -35,8 +35,7 @@
 </div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  <img src="https://i.gifer.com/3He.gif">
+ 
  
 
   
