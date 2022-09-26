@@ -7,7 +7,7 @@
 - 🤔 Estou procurando ajuda com back-end
 - 💬 Pergunte-me sobre front-end
 - 📫 Como entrar em contato comigo: Instagram
-- ⚡ Curiosidade:to solteiro, só vem 😘 (hétero)
+- ⚡ Curiosidade: to solteiro, só vem 😘 (hétero)
 
 ## Ferramentas e Tecnologias
 
