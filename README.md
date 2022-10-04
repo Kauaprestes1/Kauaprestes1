@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente estou trabalhando em dois projeto chamados "⚡Energizar da mente⚡" e um site para "Paroquia Sagrada Familia👨‍👧‍👧"
 - 🌱 Atualmente estou aprendendo Java ☕
-- 👯 Estou procurando colaborar em projetos envolvendo front-end e Java
-- 🤔 Estou procurando ajuda com back-end
-- 💬 Pergunte-me sobre front-end
-- 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/kaua_prestes1/">Instagram</a>
-- 😉 Curiosidade: Sou freelancer 
+- 👯 Estou procurando colaborar em projetos envolvendo front-end e Java🎁
+- 🤔 Estou procurando ajuda com back-end🧨
+- 💬 Pergunte-me sobre front-end✨
+- 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/kaua_prestes1/">Instagram</a>🤙🏼
+- 😉 Curiosidade: Sou freelancer💰
 
 ## Ferramentas e Tecnologias
 
