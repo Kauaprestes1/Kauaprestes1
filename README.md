@@ -28,6 +28,7 @@
   
   
   <div>
+  <img src="https://acegif.com/wp-content/uploads/cat-typing-21.gif" style= "text aling: center;">
 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
