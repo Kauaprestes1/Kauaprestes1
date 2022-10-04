@@ -7,6 +7,7 @@
 - 🤔 Estou procurando ajuda com back-end
 - 💬 Pergunte-me sobre front-end
 - 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/kaua_prestes1/">Instagram</a>
+- 😉 Curiosidade: Sou freelancer 
 
 ## Ferramentas e Tecnologias
 
