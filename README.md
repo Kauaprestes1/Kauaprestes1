@@ -1,7 +1,7 @@
 # Olá, me chamo Kauã ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em dois projetos chamados "⚡Energizar da mente⚡" e um site para "Paroquia Sagrada Familia👨‍👧‍👧"
+- 🔭 Estou trabalhando em dois projetos chamados "⚡Energizar da mente⚡" e um site para "Paroquia Sagrada Familia👨‍👧‍👧"
 - 🌱 Atualmente estou aprendendo Java ☕
 - 👯 Estou procurando colaborar em projetos envolvendo front-end e Java🎁
 - 🤔 Estou procurando ajuda com back-end🧨
