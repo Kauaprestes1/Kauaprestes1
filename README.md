@@ -1,13 +1,7 @@
-# Olá, me chamo Kauã ! 
+# Olá, me chamo Kauã 😃 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Estou trabalhando em dois projetos chamados "⚡Energizar da mente⚡" e um site para "Paroquia Sagrada Familia👨‍👧‍👧"
-- 🌱 Atualmente estou aprendendo Java ☕
-- 👯 Estou procurando colaborar em projetos envolvendo front-end e Java🎁
-- 🤔 Estou procurando ajuda com back-end🧨
-- 💬 Pergunte-me sobre front-end✨
-- 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/kaua_prestes1/">Instagram</a>🤙🏼
-- 😉 Curiosidade: Sou freelancer💰
+
 
 ## Ferramentas e Tecnologias
 
