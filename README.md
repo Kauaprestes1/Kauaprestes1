@@ -1,5 +1,8 @@
-# Olá, me chamo Kauã 😃 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Kauã 😃
+## Um pouco sobre mim:
+Olá, tenho 17 anos e estou cursando o curso de Desinvolvimento de sistemas e IA 900 no senai, porem
+começei a estudar por fora e estou me expecializando em diversas tecnologias importantes no mercado
+e me tornei free-lancer para aprender melhor sobre o mercado🚀 
 
 
 
