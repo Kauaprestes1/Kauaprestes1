@@ -25,7 +25,8 @@ e me tornei free-lancer para aprender melhor sobre o mercado🚀
   
   
   <div>
-  <img src="https://acegif.com/wp-content/uploads/cat-typing-21.gif" style= "text aling: center;">
+  <img src="https://giffiles.alphacoders.com/170/170065.gif" style= "text aling: center; width: 435px;">
+  <img src="https://i.pinimg.com/originals/44/3e/67/443e6725484b80aa2ba46b2fd810a494.gif"style= "text aling: center;  height:208px;">
 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
