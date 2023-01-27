@@ -12,6 +12,11 @@ Comecei na área na instituição SENAI-SP de Botucatu no começo deste ano e j�
   
   
 ##
+  
+  <div align="center">
+  <a href="https://github.com/Kauaprestes1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauaprestes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
 <div style="display: inline_block" align="center"><br>
