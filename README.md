@@ -1,5 +1,7 @@
-# Olá me chamo Kauã Prestes de Oliveira 👻
-Tenho 17 anos e estou me desenvolvendo na área de TI, especificadamente em web design porém tenho conhecimento em banco de dados e em tecnologias de nuvem(Azure e Google Cloud).<BR>
+<details>
+  <summary><h1>Olá me chamo Kauã Prestes de Oliveira 👻</h1></summary>
+<p>
+    Tenho 17 anos e estou me desenvolvendo na área de TI, especificadamente em web design porém tenho conhecimento em banco de dados e em tecnologias de nuvem(Azure e Google Cloud).<BR>
 Comecei na área na instituição SENAI-SP de Botucatu no começo deste ano e já estou me desenvolvendo, hoje atuo como free-lancer junto a minha equipe e nos chamamos DEVOLPS🚀.
   
  - 🔭 Atualmente estou trabalhando em: Um site chamado ⚡Energizar da mente⚡
@@ -8,15 +10,15 @@ Comecei na área na instituição SENAI-SP de Botucatu no começo deste ano e j�
  - 💬 Pergunte-me sobre: Design
  - 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/kaua_prestes1/">Instagram
  - ⚡ Curiosidade: Comecei a pouco tempo na área
-  
-  
+</p>
+</details>
   
 ##
   
-  <div align="center">
+ 
   <a href="https://github.com/Kauaprestes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauaprestes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+    
 
 <div style="display: inline_block"><br>
 <div style="display: inline_block" align="center"><br>
