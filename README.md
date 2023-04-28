@@ -14,14 +14,9 @@ Comecei na área na instituição SENAI-SP de Botucatu no começo deste ano e j�
 </details>
   
 ##
-  
- 
-  <a href="https://github.com/Kauaprestes1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauaprestes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-
-<div style="display: inline_block"><br>
-<div style="display: inline_block" align="center"><br>
+ <summary><h1>Tecnologias</h1></summary>
+  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +25,7 @@ Comecei na área na instituição SENAI-SP de Botucatu no começo deste ano e j�
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
 </div>
-
+  
 ##
 
 <div> 
