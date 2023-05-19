@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã 👋👋 
 
 
-- 🌱 Atualmente estou estudando C++
+- 🌱 Atualmente estou estudando PHP e Mysql
 - 👯 Desenvolvedor web
 
 <!-- <div>
