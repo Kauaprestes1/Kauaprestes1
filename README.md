@@ -1,8 +1,11 @@
 ### Olá, sou Kauã P. de Oliveira
 
-🎓 Certificado pela Microsoft em AI-900|
-🎓 Técnico em Desenvolvimento de Sistemas|
-📚 Estudante de Análise e Desenvolvimento de Sistemas na Fatec de Botucatu|
+🎓 Certificado pela Microsoft em AI-900 
+       
+🎓 Técnico em Desenvolvimento de Sistemas
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas na Fatec de Botucatu
+
 💼 Profissional de Marketing Digital
 
 🌟 Sobre Mim
